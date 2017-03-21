@@ -1,0 +1,18 @@
+@model ICollection<Library>
+
+<h1>Hello from the Great libraries</h1>
+
+<p>There are currently @Model.Count Libraries Registered</p>
+
+<a asp-controller="Library" asp-action="Create">Add New Library</a>
+
+<ul>
+  @foreach(var library in Model){
+    <li><a asp-controller="Library" asp-action="Details" asp-route-id="@library.Id">@library.Name</a></li>
+  }
+</ul>
+
+
+
+
+
