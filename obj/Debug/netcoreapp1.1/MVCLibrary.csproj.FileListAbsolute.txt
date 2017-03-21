@@ -1,0 +1,8 @@
+C:\source\codeworks\MVCLibrary\bin\Debug\netcoreapp1.1\MVCLibrary.deps.json
+C:\source\codeworks\MVCLibrary\bin\Debug\netcoreapp1.1\MVCLibrary.runtimeconfig.json
+C:\source\codeworks\MVCLibrary\bin\Debug\netcoreapp1.1\MVCLibrary.runtimeconfig.dev.json
+C:\source\codeworks\MVCLibrary\bin\Debug\netcoreapp1.1\MVCLibrary.dll
+C:\source\codeworks\MVCLibrary\bin\Debug\netcoreapp1.1\MVCLibrary.pdb
+C:\source\codeworks\MVCLibrary\obj\Debug\netcoreapp1.1\MVCLibrary.AssemblyInfo.cs
+C:\source\codeworks\MVCLibrary\obj\Debug\netcoreapp1.1\MVCLibrary.dll
+C:\source\codeworks\MVCLibrary\obj\Debug\netcoreapp1.1\MVCLibrary.pdb
